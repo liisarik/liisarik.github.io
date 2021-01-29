@@ -1,0 +1,6 @@
+body {
+	padding-top: 3.5rem; /* ülemine padding mobiilivaates korda */
+}
+.jumbotron {
+	background-color: #dde4ea;
+}
